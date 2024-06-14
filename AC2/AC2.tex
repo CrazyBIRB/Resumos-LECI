@@ -1,0 +1,73 @@
+\documentclass[a4paper, 11pt, onecolumn, twoside]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+
+\title{%
+  Resumos de AC2 \\
+  \large Teste Teorico 2}
+
+\author{Tiago Almeida}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+
+\section{Introdução}
+Escrever um pequeno overview da matéria que sai para o teste teórico 2
+e o que esperar encontrar neste documento
+
+\section{A Interface \hyperref[sec:spi]{\textbf{\large{SPI}}}}
+\hyperref[sec:spi]{\textbf{\large{SPI}}} é uma interface de \textbf{\large{alta velocidade e de curta distância}} (dezenas de cm) usada para comunicar com
+diversos dispositivos diferentes, como por exemplo:
+\begin{itemize}
+    \item Sensores de diversos tipos: temperatura, pressão, etc.
+    \item Cartões de memória (MMC / SD)
+    \item Circuitos: memórias, ADCs, DACs, Displays LCD (e.g.\ telemóveis),
+    comunicação entre corpo de máquinas fotográficas e as lentes, \ldots
+    \item Comunicação entre microcontroladores
+\end{itemize}
+
+\subsection{Funcionamento}
+Pontos chave sobre a arquitetura do \hyperref[sec:spi]{\textbf{\large{SPI}}}:\@
+\begin{itemize}
+    \item Comunicação full-duplex;
+\end{itemize}
+
+\subsection{Detalhes adicionais}
+Algumas notas adicionais sobre \hyperref[sec:spi]{\textbf{\large{SPI}}} que podem ou não ser importantes:
+
+\begin{itemize}
+    \item Criado pela empresa Motorola
+    \item Terceiro item da lista
+    \begin{itemize}
+        \item Subitem um
+        \item Subitem dois
+    \end{itemize}
+    \item Quarto item da lista
+\end{itemize}
+
+\section{Conclusão}
+Algumas conclusões e considerações que se deve ter após
+ter acabado o estudo
+
+\clearpage
+\section{Glossário}\label{sec:glossary}
+
+Aqui está a seção de glossário. Cada termo usado repetidamente no documento está listado aqui com sua definição.
+
+\begin{itemize}
+    \item\label{spi} \textbf{SPI}: Serial Peripheral Interface
+    \item\label{halfduplex} \textbf{Half-Duplex}: comunicação nos dois sentidos, mas apenas um de
+    cada vez (é usada uma só linha)
+    \item\label{fullduplex} \textbf{Full-Duplex}: Comunicação simultânea nos dois sentidos (são
+    usadas duas linhas)
+\end{itemize}
+
+\end{document}
