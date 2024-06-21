@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.14)  18 JUN 2024 20:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.6.14)  21 JUN 2024 22:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -411,11 +411,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count285
 \l__pdf_internal_box=\box57
 )
-(./AC2.aux
-
-LaTeX Warning: Label `fig6' multiply defined.
-
-)
+(./AC2.aux)
 \openout1 = `AC2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
@@ -509,174 +505,130 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 23.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./AC2.toc)
+) (./AC2.toc [1
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `AC2.toc'.
 
- [1
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+ [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 32.
+(hyperref)                removing `\@ifnextchar' on input line 58.
 
-<Funcionamento_SPI.png, id=55, 944.52875pt x 233.87375pt>
+[3
+
+]
+<Funcionamento_SPI.png, id=116, 944.52875pt x 233.87375pt>
 File: Funcionamento_SPI.png Graphic file (type png)
 <use Funcionamento_SPI.png>
-Package pdftex.def Info: Funcionamento_SPI.png  used on input line 75.
+Package pdftex.def Info: Funcionamento_SPI.png  used on input line 101.
 (pdftex.def)             Requested size: 448.13095pt x 110.96269pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2
-
-] [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}
-) has been already used, duplicate ignored
+[4] [5pdfTeX warning (ext4): destination with the same identifier (name{figure.
+1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.92 \clearpage
-                <./Funcionamento_SPI.png>]
-<Arquitetura-de-ligação-1_SPI.jpg, id=70, 485.815pt x 553.06625pt>
+l.118 \clearpage
+                 <./Funcionamento_SPI.png>]
+<Arquitetura-de-ligação-1_SPI.jpg, id=130, 485.815pt x 553.06625pt>
 File: Arquitetura-de-ligação-1_SPI.jpg Graphic file (type jpg)
 <use Arquitetura-de-ligação-1_SPI.jpg>
 Package pdftex.def Info: Arquitetura-de-ligação-1_SPI.jpg  used on input line
- 103.
+ 129.
 (pdftex.def)             Requested size: 215.10094pt x 244.87738pt.
-<Arquitetura-de-ligação-2_SPI.png, id=71, 440.64626pt x 538.01pt>
+<Arquitetura-de-ligação-2_SPI.png, id=131, 440.64626pt x 538.01pt>
 File: Arquitetura-de-ligação-2_SPI.png Graphic file (type png)
 <use Arquitetura-de-ligação-2_SPI.png>
 Package pdftex.def Info: Arquitetura-de-ligação-2_SPI.png  used on input line
- 108.
+ 134.
 (pdftex.def)             Requested size: 215.10094pt x 262.62566pt.
- [4
+ [6
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) ha
 s been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.121 \clearpage
+l.147 \clearpage
                 pdfTeX warning (ext4): destination with the same identifier (na
 me{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.121 \clearpage
+l.147 \clearpage
                  <./Arquitetura-de-ligação-1_SPI.jpg> <./Arquitetura-de-liga�
 �ão-2_SPI.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 150.
+(hyperref)                removing `\@ifnextchar' on input line 176.
 
-[5
+[7
 
 ]
-<Funcionamento_CAN.png, id=101, 980.66376pt x 656.4525pt>
+<Funcionamento_CAN.png, id=163, 980.66376pt x 656.4525pt>
 File: Funcionamento_CAN.png Graphic file (type png)
 <use Funcionamento_CAN.png>
-Package pdftex.def Info: Funcionamento_CAN.png  used on input line 185.
+Package pdftex.def Info: Funcionamento_CAN.png  used on input line 211.
 (pdftex.def)             Requested size: 403.31511pt x 269.97865pt.
- [6] [7pdfTeX warning (ext4): destination with the same identifier (name{figure
+ [8] [9pdfTeX warning (ext4): destination with the same identifier (name{figure
 .4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.210         \item O
+l.236         \item O
                       segundo bit é reservado e não tem significado <./Funcio
 namento_CAN.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 222--224
+Underfull \hbox (badness 10000) in paragraph at lines 248--250
 
  []
 
-<Trama-exemplo_CAN.png, id=116, 949.5475pt x 157.58875pt>
+<Trama-exemplo_CAN.png, id=177, 949.5475pt x 157.58875pt>
 File: Trama-exemplo_CAN.png Graphic file (type png)
 <use Trama-exemplo_CAN.png>
-Package pdftex.def Info: Trama-exemplo_CAN.png  used on input line 246.
+Package pdftex.def Info: Trama-exemplo_CAN.png  used on input line 272.
 (pdftex.def)             Requested size: 448.13095pt x 74.3721pt.
-[8]
-<Funcionamento_RS-232C.png, id=126, 964.60374pt x 282.05376pt>
+[10]
+<Funcionamento_RS-232C.png, id=187, 964.60374pt x 282.05376pt>
 File: Funcionamento_RS-232C.png Graphic file (type png)
 <use Funcionamento_RS-232C.png>
-Package pdftex.def Info: Funcionamento_RS-232C.png  used on input line 267.
+Package pdftex.def Info: Funcionamento_RS-232C.png  used on input line 296.
 (pdftex.def)             Requested size: 448.13095pt x 131.03313pt.
- [9pdfTeX warning (ext4): destination with the same identifier (name{figure.5})
- has been already used, duplicate ignored
+ [11pdfTeX warning (ext4): destination with the same identifier (name{figure.5}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.270 
+l.299 
        <./Trama-exemplo_CAN.png>]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.285 ...emplo: Data = 0x0F (0000 1111); Trama: D_
-                                                  0 = 1, D_1 = 1, D_2 = 1, \...
-
-? 
-
-! LaTeX Error: Command \end{itemize} invalid in math mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.286     \end{itemize}
-                       
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.286     \end{itemize}
-                       
-? 
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.286     \end{itemize}
-                       
-? 
-! Missing $ inserted.
-<inserted text> 
-                $
-l.286     \end{itemize}
-                       
-? 
-<Trama-exemplo_RS-232C.png, id=133, 990.70125pt x 228.855pt>
+<Trama-exemplo_RS-232C.png, id=194, 990.70125pt x 228.855pt>
 File: Trama-exemplo_RS-232C.png Graphic file (type png)
 <use Trama-exemplo_RS-232C.png>
-Package pdftex.def Info: Trama-exemplo_RS-232C.png  used on input line 300.
+Package pdftex.def Info: Trama-exemplo_RS-232C.png  used on input line 329.
 (pdftex.def)             Requested size: 448.13095pt x 103.51807pt.
-[10pdfTeX warning (ext4): destination with the same identifier (name{figure.6})
- has been already used, duplicate ignored
+ [12pdfTeX warning (ext4): destination with the same identifier (name{figure.6}
+) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.303 
-       <./Funcionamento_RS-232C.png>] [11pdfTeX warning (ext4): destination wit
+l.332 
+       <./Funcionamento_RS-232C.png>] [13pdfTeX warning (ext4): destination wit
 h the same identifier (name{figure.7}) has been already used, duplicate ignored
 
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.318 \clearpage
-                 <./Trama-exemplo_RS-232C.png>] [12
+l.357 \clearpage
+                 <./Trama-exemplo_RS-232C.png>] [14
 
 ] (./AC2.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `AC2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 13019 strings out of 480186
- 228063 string characters out of 5894355
- 641587 words of memory out of 5000000
- 30766 multiletter control sequences out of 15000+600000
+ 13074 strings out of 480186
+ 228565 string characters out of 5894355
+ 644587 words of memory out of 5000000
+ 30793 multiletter control sequences out of 15000+600000
  478931 words of font info for 64 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  108i,8n,106p,10598b,551s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -690,10 +642,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on AC2.pdf (12 pages, 515598 bytes).
+Output written on AC2.pdf (14 pages, 522587 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
- 209 compressed objects within 3 object streams
- 48 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 404 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
+ 76 named destinations out of 1000 (max. 500000)
+ 364 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,16 +1,42 @@
-\contentsline {section}{\numberline {1}Introdução}{1}{section.1}%
-\contentsline {section}{\numberline {2}A Interface \hyperref [spi]{\textbf {\relax \fontsize {14.4}{18}\selectfont {SPI}}}}{2}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Funcionamento}{2}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Arquiteturas de ligação}{4}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Detalhes adicionais}{5}{subsection.2.3}%
-\contentsline {section}{\numberline {3}O barramento \hyperref [can]{\textbf {CAN}}}{5}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Funcionamento}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Formato das tramas do CAN}{7}{subsection.3.2}%
-\contentsline {section}{\numberline {4}A interface RS-232C}{9}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Funcionamento}{9}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Formato das tramas do RS-232C}{10}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Sincronização de relógio}{11}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Máximo desvio de frequência}{11}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Conclusão}{11}{section.5}%
-\contentsline {section}{\numberline {6}Glossário}{12}{section.6}%
+\contentsline {section}{\numberline {1}Introdução}{2}{section.1}%
+\contentsline {section}{\numberline {2}microcontroladores e Sistemas embebidos}{3}{section.2}%
+\contentsline {section}{\numberline {3}Noção de Perifericos}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Estrutura}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Descodificação de endereços}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Gerador de sinais de seleção}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Portos I/O}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Estrutura}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Portos no PIC32}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Técnicas de transferência de informação entre periféricos e memória}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Programmed I/O (Programada)}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Interrupt Driven I/O (Interrupção)}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}DMA (Acesso Direto)}{3}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Interrupções}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Interrupções no PIC32}{3}{subsection.6.1}%
+\contentsline {section}{\numberline {7}Timers}{3}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Funcionamento}{3}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Watchdog Timer}{3}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Timers no PIC32}{3}{subsection.7.3}%
+\contentsline {section}{\numberline {8}Barramentos paralelos e Barramentos série}{3}{section.8}%
+\contentsline {section}{\numberline {9}A Interface \hyperref [spi]{\textbf {\relax \fontsize {14.4}{18}\selectfont {SPI}}}}{3}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Funcionamento}{4}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Arquiteturas de ligação}{6}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Detalhes adicionais}{7}{subsection.9.3}%
+\contentsline {section}{\numberline {10}O barramento \hyperref [can]{\textbf {CAN}}}{7}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Funcionamento}{8}{subsection.10.1}%
+\contentsline {subsection}{\numberline {10.2}Formato das tramas do CAN}{9}{subsection.10.2}%
+\contentsline {subsection}{\numberline {10.3}Motivos da segurança adicional do CAN}{11}{subsection.10.3}%
+\contentsline {section}{\numberline {11}A interface RS-232C}{11}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Funcionamento}{11}{subsection.11.1}%
+\contentsline {subsection}{\numberline {11.2}Formato das tramas do RS-232C}{12}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}Sincronização de relógio}{13}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}Máximo desvio de frequência}{13}{subsection.11.4}%
+\contentsline {section}{\numberline {12}Device Drivers}{13}{section.12}%
+\contentsline {section}{\numberline {13}Tecnologias de memória}{13}{section.13}%
+\contentsline {subsection}{\numberline {13.1}SRAM}{13}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}DRAM}{13}{subsection.13.2}%
+\contentsline {section}{\numberline {14}Memória Cache}{13}{section.14}%
+\contentsline {section}{\numberline {15}Memória Virtual}{13}{section.15}%
+\contentsline {section}{\numberline {16}Conclusão}{13}{section.16}%
+\contentsline {section}{\numberline {17}Glossário}{14}{section.17}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

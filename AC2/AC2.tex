@@ -15,7 +15,7 @@
   \large Teste Teorico 2}
 
 \author{Tiago Almeida}
-\date{\today}
+\date{\today} 
 
 \begin{document}
 
@@ -28,6 +28,32 @@ Escrever um pequeno overview da matéria que sai para o teste teórico 2
 e o que esperar encontrar neste documento
 
 \clearpage
+
+\section{microcontroladores e Sistemas embebidos}
+
+\section{Noção de Perifericos}
+\subsection{Estrutura}
+\subsection{Descodificação de endereços}
+\subsection{Gerador de sinais de seleção}
+
+\section{Portos I/O}
+\subsection{Estrutura}
+\subsection{Portos no PIC32}
+
+\section{Técnicas de transferência de informação entre periféricos e memória}
+\subsection{Programmed I/O (Programada)}
+\subsection{Interrupt Driven I/O (Interrupção)}
+\subsection{DMA (Acesso Direto)}
+
+\section{Interrupções}
+\subsection{Interrupções no PIC32}
+
+\section{Timers}
+\subsection{Funcionamento}
+\subsection{Watchdog Timer}
+\subsection{Timers no PIC32}
+
+\section{Barramentos paralelos e Barramentos série}
 
 \section{A Interface \hyperref[spi]{\textbf{\large{SPI}}}}
 \hyperref[spi]{\textbf{SPI}} é uma interface de \textbf{alta velocidade e de curta distância} (dezenas de cm) usada para comunicar com
@@ -285,7 +311,7 @@ Revisão de cada parte da trama:
     \begin{itemize}
         \item Consiste de 5 a 9 bits
         \item Envia os dados do menos significativo para o mais significativo\\
-        Exemplo: Data = 0x0F (0000 1111); Trama: D_0 = 1, D_1 = 1, D_2 = 1, \dots, D_7 = 0
+        Exemplo: Data = 0x0F (0000 1111); Trama: \(D_0 = 1\), \(D_1 = 1\), \(D_2 = 1\), \dots, \(D_7 = 0\)
     \end{itemize}
     \item \textbf{Parity bit} (opcional)
     \begin{itemize}
@@ -301,7 +327,7 @@ Revisão de cada parte da trama:
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\textwidth]{Trama-exemplo_RS-232C.png}
-    \caption{Exemplo da Trama do RS-232C}\label{fig6}
+    \caption{Exemplo da Trama do RS-232C}\label{fig7}
 \end{figure}
 
 
@@ -313,6 +339,16 @@ Para relembrar o funcionamento da sincronização reler páginas 9 a 15 da aula 
 
 \subsection{Máximo desvio de frequência}
 \dots
+
+\section{Device Drivers}
+
+\section{Tecnologias de memória}
+\subsection{SRAM}
+\subsection{DRAM}
+
+\section{Memória Cache}
+
+\section{Memória Virtual}
 
 \section{Conclusão}
 Algumas conclusões e considerações que se deve ter após
